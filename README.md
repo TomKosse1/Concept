@@ -1,5 +1,7 @@
 # Concept
-The scripts and the 5000 IMDb Movie Dataset are uplaoded on this github
+The scripts and the 5000 IMDb Movie Dataset (movie_metadata.csv) are uplaoded on this github.
+I have also included the used sentiment lexicon here.
+Furthermore, I put the pdf in this repository as well.
 
 The actual dataset is apparently too big for github.
 Even when the dataset is divided and compressed in winrar archives.
